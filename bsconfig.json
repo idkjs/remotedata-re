@@ -1,10 +1,9 @@
 {
   "name": "remotedata-re",
   "reason": {
-    "react-jsx": 2
+    "react-jsx": 3
   },
   "bsc-flags": ["-bs-super-errors"],
-  "refmt": 3,
   "bs-dev-dependencies": ["@glennsl/bs-jest"],
   "sources": [
     {
